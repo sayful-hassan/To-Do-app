@@ -10,6 +10,7 @@ body{
   top: 10%;
   left: 50%;
   transform: translate(-50%, -10%);
+  
 }
 .app .mainHeading h1 {
   text-align: center;
